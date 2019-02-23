@@ -1,0 +1,204 @@
+Sat Feb 23 17:23:12 2019 PARK_ID: 10
+Sat Feb 23 17:23:12 2019 ADDRESS: 1st floor, Kai Tak Cruise Terminal, 33 Shing Fung Road, Kowloon Bay, KLN
+Sat Feb 23 17:23:12 2019 CONTACT_NO: +852 3465 6888, 09:30-18:00 Mon-Fri, except public holiday
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: 12
+Sat Feb 23 17:23:12 2019 ADDRESS: 77 Ngau Tau Kok Raod, Kowloon Bay, KLN
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 27563666
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: 27
+Sat Feb 23 17:23:12 2019 ADDRESS: LG1 & LG2, Yau Lai Shopping Centre, 9 Yau Tong, Yau Tong, Kowloon, Yau Tong, KLN
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 23530667
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: 30
+Sat Feb 23 17:23:12 2019 ADDRESS: 33 Wai Yip Street, Kowloon Bay, KLN
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 2997 2262
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: 31
+Sat Feb 23 17:23:12 2019 ADDRESS: 33 Wai Yip Street, Kowloon Bay, KLN
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 2997 2262
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: 32
+Sat Feb 23 17:23:12 2019 ADDRESS: 33 Wai Yip Street, Kowloon Bay, KLN
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 2997 2262
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: 36
+Sat Feb 23 17:23:12 2019 ADDRESS: Kowloonbay International Trade & Exhibitiion Centre, 1 Trademart Drive, Kowloon Bay, KLN
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 2620 3388
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: 37
+Sat Feb 23 17:23:12 2019 ADDRESS: Manhattan Place, 23 Wang Tai Road, Kowloon Bay, KLN
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 27079990
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: 38
+Sat Feb 23 17:23:12 2019 ADDRESS: LG1, Domain, 38 Ko Chiu Road, Yau Tong, KLN
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 28702992
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: 39
+Sat Feb 23 17:23:12 2019 ADDRESS: Choi Tak Estate, Ngau Tau Kok, KLN
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 28063290
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: 49
+Sat Feb 23 17:23:12 2019 ADDRESS: Room 1905, 19/F, One Pacific Centre, 414 Kwun Tong Road, Kwun Tong, KLN
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 34282233
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: 50
+Sat Feb 23 17:23:12 2019 ADDRESS: 388 Kwun Tong Road, Kwun Tong, KLN
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 9856-0631
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: 51
+Sat Feb 23 17:23:12 2019 ADDRESS: 370-378 Kwun Tong Road, Kwun Tong, KLN
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 2172-7112
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: 52
+Sat Feb 23 17:23:12 2019 ADDRESS: 392 Kwun Tong Road, Kwun Tong, KLN
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 2954-8029
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: 53
+Sat Feb 23 17:23:12 2019 ADDRESS: 51 Hung To Road, Kwun Tong, KLN
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 2793-3019
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: 59
+Sat Feb 23 17:23:12 2019 ADDRESS: 1st floor, Kai Tak Cruise Terminal, 33 Shing Fung Road, Kowloon Bay, KLN
+Sat Feb 23 17:23:12 2019 CONTACT_NO: +852 3465 6888, 09:30-18:00 Mon-Fri, except public holiday
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: 73
+Sat Feb 23 17:23:12 2019 ADDRESS: 34 Tai Yau Street, San Po Kong, KLN
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 9544-0650
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: 74
+Sat Feb 23 17:23:12 2019 ADDRESS: Goldin Financial Global Centre, 17 Kai Cheung Road, Kowloon Bay, KLN
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 38993888
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: 75
+Sat Feb 23 17:23:12 2019 ADDRESS: Landmark East, 100 How Ming Street, Kwun Tong, KLN
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 3971 0203
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: 76
+Sat Feb 23 17:23:12 2019 ADDRESS: 33 Tseuk Luk Street, San Po Kong, KLN
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 5501-3857
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdc6p10
+Sat Feb 23 17:23:12 2019 ADDRESS: Cheung Ching Estate Carpark Tsing Yi, NT
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 93870562
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdc6p11
+Sat Feb 23 17:23:12 2019 ADDRESS: Cheung Shan Estate Carpark Tsuen Wan, NT
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 98455563
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdc6p12
+Sat Feb 23 17:23:12 2019 ADDRESS: Lung Poon Court Carpark Diamond Hill, Kln
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 28303845
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdc6p8
+Sat Feb 23 17:23:12 2019 ADDRESS: Kwai Shing (West) Estate Carpark Kwai Chung, NT 
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 98553566
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdc6p9
+Sat Feb 23 17:23:12 2019 ADDRESS: Lai King Estate Carpark Kwai Chung, NT
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 91365567
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdcp1
+Sat Feb 23 17:23:12 2019 ADDRESS: 250 Shanghai Street, Yau Ma Tei, Kowloon
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 2771 2915
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdcp10
+Sat Feb 23 17:23:12 2019 ADDRESS: 18 Aberdeen Reservoir Road, Aberdeen, Hong Kong
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 2580 3792
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdcp11
+Sat Feb 23 17:23:12 2019 ADDRESS: 1 King's Road, Causeway Bay, Hong Kong
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 2566 3419
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdcp12
+Sat Feb 23 17:23:12 2019 ADDRESS: Sheung Fung Street, Wong Tai Sin, Kowloon
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 2350 3386
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdcp2
+Sat Feb 23 17:23:12 2019 ADDRESS: 2 Rumsey Street, Sheung Wan, Hong Kong
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 2545 6543
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdcp3
+Sat Feb 23 17:23:12 2019 ADDRESS: 174-208 Castle Peak Road, Tsuen Wan, New Territories
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 2611 9148
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdcp5
+Sat Feb 23 17:23:12 2019 ADDRESS: 1 Edinburgh Place, Central, Hong Kong
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 2118 6918
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdcp6
+Sat Feb 23 17:23:12 2019 ADDRESS: 19 Kwai Yi Road, Kwai Chung, New Territories
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 2429 0566
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdcp7
+Sat Feb 23 17:23:12 2019 ADDRESS: 12 Rock Hill Street, Kennedy Town, Hong Kong
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 2986 4507
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdcp8
+Sat Feb 23 17:23:12 2019 ADDRESS: 9 Edinburgh Place, Central, Hong Kong
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 2118 6917
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdcp9
+Sat Feb 23 17:23:12 2019 ADDRESS: 1 Po Man Street, Shau Kei Wan, Hong Kong
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 2569 1042
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdc5p1
+Sat Feb 23 17:23:12 2019 ADDRESS: 183 QUEEN'S ROAD EAST, Wan Chai District, Hong Kong
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 2527 7292
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdc5p3
+Sat Feb 23 17:23:12 2019 ADDRESS: 213 Queen's Road East, Wan Chai District, Hong Kong
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 2893 9369
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdc5p4
+Sat Feb 23 17:23:12 2019 ADDRESS: 3 TSUEN WAH STREET, Kwai Tsing District, New Territories
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 3114 0000
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdc17p1
+Sat Feb 23 17:23:12 2019 ADDRESS: 88 Austin Road West, Tsim Sha Tsui, Kowloon 
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdc1p5
+Sat Feb 23 17:23:12 2019 ADDRESS: 1 Sunning Road, Causeway Bay, Hong Kong
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdc1p4
+Sat Feb 23 17:23:12 2019 ADDRESS: 500 Hennessy Road, Wan Chai District, Hong Kong
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdc1p3
+Sat Feb 23 17:23:12 2019 ADDRESS: 77 LEIGHTON ROAD, Wan Chai District, Hong Kong
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdc1p2
+Sat Feb 23 17:23:12 2019 ADDRESS: 28 YUN PING ROAD, Wan Chai District, Hong Kong
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdc1p1
+Sat Feb 23 17:23:12 2019 ADDRESS: 33 HYSAN AVENUE, Wan Chai District, Hong Kong
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdc17p3
+Sat Feb 23 17:23:12 2019 ADDRESS: Project Site Office, WKCD, Kowloon, Hong Kong
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdc17p2
+Sat Feb 23 17:23:12 2019 ADDRESS: West Kowloon Cultural District, No.36 Museum Drive, Kowloon, Hong Kong
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 52820288
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdstt2p2
+Sat Feb 23 17:23:12 2019 ADDRESS: Junction of Shan Mei Street & Sui Wo Road, Fo Tan
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 28062235
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdstt2p1
+Sat Feb 23 17:23:12 2019 ADDRESS: Area 85 Wan Po Road, Tsueng Kwan O
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 28062235
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdstt3p1
+Sat Feb 23 17:23:12 2019 ADDRESS:  Ho Tin Street, Area 9, Tuen Mun, N.T.
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 
+----------------------------------------
+Sat Feb 23 17:23:12 2019 PARK_ID: tdstt5p1
+Sat Feb 23 17:23:12 2019 ADDRESS: Ma Wo Road, Area 6, Tai Po, N.T.
+Sat Feb 23 17:23:12 2019 CONTACT_NO: 
+----------------------------------------
